@@ -1,0 +1,5 @@
+bookish_db.db
+bookish_log.txt
+.pytest_cache
+.idea
+__pycache__
